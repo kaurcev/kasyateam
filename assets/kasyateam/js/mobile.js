@@ -1,5 +1,5 @@
 var open = window.location.pathname
-
+/*
 if (screen.width <= 850 && open == '/why-check'){
 window.location.href = './k-feed'
 }else if (screen.width <= 850 && open == '/feed'){
