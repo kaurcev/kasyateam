@@ -9,3 +9,4 @@ window.location.href = './k-feed'
 }else {
 window.location.href = './device'
 }
+*/
